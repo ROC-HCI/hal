@@ -1,2 +1,4 @@
-# hal
-Training and evaluation code associated with the paper "HAL: Inducing Human-likeness in LLMs with Alignment"
+# HAL: Inducing Human-likeness in LLMs with Alignment
+Training and evaluation code
+
+
