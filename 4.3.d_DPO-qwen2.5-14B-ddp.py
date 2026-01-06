@@ -1,6 +1,6 @@
 ## ------------------
 ## Request model: https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-GGUF
-## accelerate launch --config_file ddp_4h100.yaml 7d_DPO-qwen2.5-14B-ddp.py 2>&1 | tee logs/train_qwen_14b_ddp.log
+## accelerate launch --config_file ddp_4h100.yaml 4.3.d_DPO-qwen2.5-14B-ddp.py 2>&1 | tee logs/train_qwen_14b_ddp.log
 ## Running on 4 H100
 ## ------------------
 
@@ -149,7 +149,7 @@ model.config.use_cache = False
 # ref_model.requires_grad_(False)
 # ref_model.eval()
 
-ref_model = None ## to avoid OOM in training 70B
+ref_model = None ## to avoid OOM in training 4.3.0B
 
 
 # LoRA (PEFT)

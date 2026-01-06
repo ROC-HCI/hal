@@ -1,6 +1,6 @@
 ## ------------------
 ## Request model: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
-## accelerate launch --config_file ddp_4h100.yaml 7f_DPO-llama-3.3-70B-ddp.py 2>&1 | tee logs/train_llama_70b.log
+## accelerate launch --config_file ddp_4h100.yaml 4.3.f_DPO-llama-3.3-70B-ddp.py 2>&1 | tee logs/train_llama_70b.log
 ## Running on 4 H100
 ## ------------------
 

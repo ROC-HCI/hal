@@ -1,6 +1,6 @@
 ## ------------------
 ## Request model: https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-GGUF
-## accelerate launch --config_file ddp_4h100.yaml 7e_DPO-qwen2.5-32B-ddp.py 2>&1 | tee logs/train_qwen_32b_ddp.log
+## accelerate launch --config_file ddp_4h100.yaml 4.3.e_DPO-qwen2.5-32B-ddp.py 2>&1 | tee logs/train_qwen_32b_ddp.log
 ## Running on 4 H100
 ## ------------------
 

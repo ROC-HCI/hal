@@ -1,6 +1,6 @@
 ## ------------------
 ## Request model: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
-## accelerate launch --multi_gpu 7b_DPO-llama-3.2-3B-ddp.py 2>&1 | tee logs/train_llama_3b.log
+## accelerate launch --multi_gpu 4.3.b_DPO-llama-3.2-3B-ddp.py 2>&1 | tee logs/train_llama_3b.log
 ## Running on 4 H100
 ## ------------------
 
