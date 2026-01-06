@@ -1,6 +1,6 @@
 # HAL: Inducing Human-likeness in LLMs with Alignment
 
-Training and evaluation code for the HAL (Human-likeness Alignment) project, which uses Direct Preference Optimization (DPO) to align language models to exhibit more human-like characteristics.
+Training and evaluation code for the HAL (Human Aligned LLM) paper, which uses Direct Preference Optimization (DPO) to align language models to exhibit more human-like characteristics.
 
 ## Project Structure
 
