@@ -67,6 +67,8 @@ Contains visualization outputs:
 #### Section 5: Evaluating Human-likeness Training
 - **`5.1.a. Human_Eval_Elo_Winrate.ipynb`** - Computes Elo ratings and win rates from human evaluations
 - **`5.1.b. Human_Eval_survey_analysis.ipynb`** - Analyzes human evaluation survey responses
+- **EmoBench:** https://github.com/Sahandfer/EmoBench
+- **EQBench3:** https://github.com/EQ-bench/eqbench3
 
 ### Python Scripts
 
