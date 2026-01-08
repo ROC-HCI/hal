@@ -39,6 +39,8 @@ Contains visualization outputs:
 
 ### Notebooks
 
+Notebooks are organized based on where they appear on the paper.
+
 #### Section 2: What Makes Human Conversation Human?
 - **`2.1.a. Find_Characteristics_GPT-5.ipynb`** - Discovers human-like characteristics using GPT-5
 - **`2.1.b. HAL_semantic_text_clustering_likert_statements.ipynb`** - Semantic clustering of Likert scale statements for HAL questionnaire
